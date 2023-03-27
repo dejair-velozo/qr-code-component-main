@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    font-family: Outfit, sans-serif;
+}
+
+body {
+    background-color: #d5e1ef;
+}
+
+.container {
+    max-width: 500px;
+    margin: 2.5rem auto;
+    padding: 1rem 0.5rem 1.5rem 0.5rem;
+    width: 25%;
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+.container-qr-code img {
+    width: 93%;
+    margin-left: 13px;
+    border: 1px solid #2b7dfa;
+    border-radius: 13px;
+
+}
+
+.container-text {
+    text-align: center;
+}
+
+.container-text h1 {
+    font-size: 23px;
+    padding: 0 1.3rem;
+    color: #344057;
+}
+
+.container-text p {
+    color: #93969e;
+    font-size: 19px;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a {  
+    color: hsl(228, 45%, 44%); 
+}
