@@ -4,7 +4,7 @@ This is a project from the site Frontend Mentor, a QR code component
 
 ### Screenshot
 
-![](./images/Capturar.JPG)
+![](./images/Capturar1.JPG)
 
 ### Links
 
