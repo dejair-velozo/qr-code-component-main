@@ -8,7 +8,7 @@ This is a project from the site Frontend Mentor, a QR code component
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://dejair-velozo.github.io/qr-code-component-main/)
 
 ### Built with
 
